@@ -2,7 +2,7 @@
 layout: page
 title: YouLeQD — Video Learning Analytics
 description: Decoding the cognitive complexity of learner questions in online educational videos.
-img: assets/img/7.jpg
+img: assets/img/proj_youleqd.jpg
 importance: 3
 category: AI in Education
 related_publications: true

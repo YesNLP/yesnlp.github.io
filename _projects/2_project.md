@@ -2,7 +2,7 @@
 layout: page
 title: Domain Question Mapping (DQM)
 description: Automatically aligning assessment questions to educational learning materials using NLP.
-img: assets/img/3.jpg
+img: assets/img/proj_dqm.jpg
 importance: 2
 category: AI in Education
 related_publications: true

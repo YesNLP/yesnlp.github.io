@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lab_banner.png
   image_circular: false
   more_info: >
     <p><strong>Principal Investigator</strong></p>

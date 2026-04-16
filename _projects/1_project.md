@@ -2,7 +2,7 @@
 layout: page
 title: Intelligent Tutoring & Creativity Assessment
 description: Automated feedback and creativity scoring for student responses using Poly-Encoders and learning science principles.
-img: assets/img/12.jpg
+img: assets/img/proj_tutoring.jpg
 importance: 1
 category: AI in Education
 related_publications: true
