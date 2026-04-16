@@ -74,63 +74,6 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Stanley Nurnberger">
-        </div>
-        <div class="col-8">
-          <div class="card-body">
-            <h5 class="card-title">Stanley Nurnberger</h5>
-            <p class="card-text">
-              <em>Graduate Research Assistant</em><br>
-              Research: LLM-as-judge, creativity assessment
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-sm-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="row g-0">
-        <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Phillip Gregory">
-        </div>
-        <div class="col-8">
-          <div class="card-body">
-            <h5 class="card-title">Phillip Gregory</h5>
-            <p class="card-text">
-              <em>Graduate Research Assistant</em><br>
-              Research: Automated creativity assessment
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-sm-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="row g-0">
-        <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sam Grouchnikov">
-        </div>
-        <div class="col-8">
-          <div class="card-body">
-            <h5 class="card-title">Sam Grouchnikov</h5>
-            <p class="card-text">
-              <em>Graduate Research Assistant</em><br>
-              Research: Automated creativity assessment
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-sm-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="row g-0">
-        <div class="col-4 d-flex align-items-center justify-content-center p-2">
           <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sachin Sharma">
         </div>
         <div class="col-8">
@@ -158,6 +101,52 @@ nav_order: 2
             <p class="card-text">
               <em>M.S. Computer Science</em><br>
               Research: Learning analytics, video-based education
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Interns
+
+<div class="row mt-4">
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Stanley Nurnberger">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Stanley Nurnberger</h5>
+            <p class="card-text">
+              <em>Intern</em><br>
+              Research: LLM-as-judge, creativity assessment
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sam Grouchnikov">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Sam Grouchnikov</h5>
+            <p class="card-text">
+              <em>Intern</em><br>
+              Research: Automated creativity assessment
             </p>
           </div>
         </div>
