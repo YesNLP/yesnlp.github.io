@@ -8,15 +8,15 @@ category: AI in Education
 related_publications: true
 ---
 
-Effective assessment requires that test questions are well-aligned to the learning objectives and materials in a course. Manual question mapping is time-consuming and inconsistent. This project introduces **Automated Domain Question Mapping (DQM)**: an NLP pipeline that automatically maps questions to relevant sections of educational materials.
+Personalized and adaptive learning systems need to know precisely what concept each assessment question targets. This project constructs **Domain Question Maps** from unstructured educational materials by fine-tuning language models for question generation and training specificity classification models using textbook hierarchies.
 
-Our approach uses dense retrieval and semantic similarity to identify the best-matching content for each question, enabling instructors to audit alignment at scale and supporting adaptive learning systems that know what a question tests.
+The resulting maps link each question to the most relevant section of a course's learning materials, supporting both automated question generation and intelligent question routing in adaptive tutoring systems.
 
 ### Key Contributions
 
-- End-to-end DQM pipeline for educational question–content alignment
-- Dataset of annotated question–material pairs across STEM domains
-- Analysis of LLM capabilities for zero-shot question mapping
+- Pipeline for constructing Domain Question Maps from raw educational text
+- Fine-tuned question generation and specificity classification models
+- Textbook-hierarchy-aware training using section-level structure
 
 ### Publications
 

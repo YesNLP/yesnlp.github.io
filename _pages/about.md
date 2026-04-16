@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: lab_banner.png
+  image: bluetwigs.png
   image_circular: false
 
 selected_papers: false
@@ -23,23 +23,21 @@ latest_posts:
   enabled: false
 ---
 
-## Cognition and Learning Design Lab (a.k.a. YesNLP)
+## Cognition and Learning Design Lab
 
-The **Cognition and Learning Design Lab** at Kennesaw State University investigates how AI systems can understand, support, and adapt to learners. Our research sits at the intersection of **Natural Language Processing**, **Information Retrieval**, and **AI in Education**.
+The **Cognition and Learning Design Lab** at Kennesaw State University merges **Natural Language Processing (NLP)**, **Information Retrieval (IR)**, and the science of human learning to build AI systems that understand, support, and adapt to learners.
 
-We build intelligent systems grounded in learning science — from knowledge tracing and student modeling to explainable learning analytics and adaptive content delivery. Our work is validated through empirical user studies, educational data mining, and real classroom deployments.
+Our work spans three interconnected directions: designing intelligent tutoring systems grounded in cognitive and learning science; building interpretable, trustworthy AI-driven educational tools; and leveraging large language models for personalized learning at scale. Research is validated through empirical user studies, educational data mining, and real classroom deployments.
 
 ---
 
 ### Research Areas
 
-**Intelligent Tutoring Systems** &nbsp;&middot;&nbsp; Automated feedback mechanisms informed by cognitive and learning science, including creativity assessment and formative feedback generation.
+**Intelligent Tutoring Systems** &nbsp;&middot;&nbsp; Automated assessment and feedback grounded in learning science — including creativity scoring, discourse analysis, and reward modeling for LLM-based tutors.
 
-**Explainable AI in Education** &nbsp;&middot;&nbsp; Interpretable learning analytics with human-centered design — making educational AI transparent to both instructors and students.
+**Interpretable & Trustworthy AI in Education** &nbsp;&middot;&nbsp; Explainable learning analytics and human-centered design that make educational AI transparent to instructors and students alike.
 
-**LLMs for Personalization** &nbsp;&middot;&nbsp; Leveraging large language models for adaptive content delivery, automated question generation, and domain question mapping from learning materials.
-
-**Biomedical NLP & IR** &nbsp;&middot;&nbsp; Precision medicine retrieval, clinical entity normalization, and biomedical text representations — building on our group's foundational work in biomedical NLP.
+**LLMs for Personalized Learning** &nbsp;&middot;&nbsp; Applying large language models to adaptive content delivery, automated question generation, domain question mapping, and formative feedback at scale.
 
 ---
 

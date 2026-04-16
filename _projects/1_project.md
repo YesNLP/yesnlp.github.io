@@ -8,15 +8,17 @@ category: AI in Education
 related_publications: true
 ---
 
-Intelligent tutoring systems that can automatically assess and provide feedback on open-ended student work represent a major challenge in AI in Education. This project focuses on **automated creativity assessment** — going beyond simple correctness to evaluate the originality and quality of student-generated responses.
+Evaluating scientific creativity in student-generated ideas requires expert annotation that is expensive and hard to scale. This project develops **automated creativity assessment** using multiple model architectures — Poly-Encoder, LLM-based regression, and pairwise comparison ranking — to evaluate student responses on the Scientific Creative Thinking Test.
 
-We develop and fine-tune **Poly-Encoder** architectures to score student responses along creativity dimensions, reducing the burden on human raters while maintaining strong agreement with expert judgments. The work is grounded in established creativity frameworks from cognitive and learning science.
+The work is grounded in established creativity frameworks from cognitive and learning science, and is validated against human rater judgments. A companion project ([LLM-as-Judge](/projects/7_project/)) extends this to prompt engineering strategies for LLM-based evaluation.
+
+This project is funded by the **Interdisciplinary Seed Grant, Kennesaw State University**.
 
 ### Key Contributions
 
-- Poly-Encoder models adapted for educational creativity scoring
-- Human-in-the-loop evaluation protocols for rubric alignment
-- Formative feedback generation from assessment outputs
+- Poly-Encoder and LLM-based regression models for creativity scoring
+- Pairwise comparison ranking as an alternative to absolute scoring
+- Human-in-the-loop evaluation protocols and inter-rater agreement analysis
 
 ### Publications
 
@@ -24,4 +26,4 @@ We develop and fine-tune **Poly-Encoder** architectures to score student respons
 
 ### Team
 
-Jiho Noh (PI), Sam, Phillip
+Jiho Noh (PI), Phillip Gregory, Sam Grouchnikov, Stanley Nurnberger
