@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CLDL # the website title (if blank, full name will be used instead)
+title: YesNLP # the website title (if blank, full name will be used instead)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Cognition and Learning Design Lab — AI in Education, NLP, and Information Retrieval research at Kennesaw State University.
 footer_text: >
@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: CLDL Blog # blog_name will be displayed in your blog page
+blog_name: YesNLP Blog # blog_name will be displayed in your blog page
 blog_description: News and updates from the Cognition and Learning Design Lab
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

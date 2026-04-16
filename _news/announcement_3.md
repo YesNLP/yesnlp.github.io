@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-CLDL is looking for motivated **PhD and MS students** to join our group in Fall 2025. Research areas: NLP, AI in Education, Information Retrieval. Email Dr. Noh to apply.
+YesNLP is looking for motivated **PhD and MS students** to join our group in Fall 2025. Research areas: NLP, AI in Education, Information Retrieval. Email Dr. Noh to apply.
 

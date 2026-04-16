@@ -10,14 +10,8 @@ profile:
   align: right
   image: lab_banner.png
   image_circular: false
-  more_info: >
-    <p><strong>Principal Investigator</strong></p>
-    <p><a href="https://jiho.us" target="_blank">Jiho Noh</a></p>
-    <p>Assistant Professor of CS</p>
-    <p>Kennesaw State University</p>
-    <p>jnoh3 [at] kennesaw.edu</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -29,9 +23,9 @@ latest_posts:
   enabled: false
 ---
 
-## Cognition and Learning Design Lab
+## Cognition and Learning Design Lab (a.k.a. YesNLP)
 
-The **Cognition and Learning Design Lab (CLDL)** at Kennesaw State University investigates how AI systems can understand, support, and adapt to learners. Our research sits at the intersection of **Natural Language Processing**, **Information Retrieval**, and **AI in Education**.
+The **Cognition and Learning Design Lab** at Kennesaw State University investigates how AI systems can understand, support, and adapt to learners. Our research sits at the intersection of **Natural Language Processing**, **Information Retrieval**, and **AI in Education**.
 
 We build intelligent systems grounded in learning science — from knowledge tracing and student modeling to explainable learning analytics and adaptive content delivery. Our work is validated through empirical user studies, educational data mining, and real classroom deployments.
 
