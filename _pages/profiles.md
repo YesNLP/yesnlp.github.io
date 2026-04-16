@@ -31,43 +31,144 @@ nav_order: 2
 ## Graduate Students
 
 <div class="row mt-4">
+
   <div class="col-sm-6 mb-4">
     <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h5 class="card-title">Sachin Sharma</h5>
-        <p class="card-text">
-          <em>M.S. Computer Science</em><br>
-          Research: Adversarial robustness, deep learning<br>
-        </p>
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Mukhesh Raghava Katragadda">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Mukhesh Raghava Katragadda</h5>
+            <p class="card-text">
+              <em>M.S. Computer Science</em><br>
+              Research: Domain question mapping, classroom discourse analysis, educational NLP
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+
   <div class="col-sm-6 mb-4">
     <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h5 class="card-title">Mukhesh Raghava Katragadda</h5>
-        <p class="card-text">
-          <em>M.S. Computer Science</em><br>
-          Research: Domain question mapping, educational NLP<br>
-        </p>
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Raymond Carl">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Raymond Carl</h5>
+            <p class="card-text">
+              <em>Graduate Research Assistant</em><br>
+              Research: LLM reinforcement learning, classroom discourse analysis
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+
   <div class="col-sm-6 mb-4">
     <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h5 class="card-title">Nong Ming</h5>
-        <p class="card-text">
-          <em>M.S. Computer Science</em><br>
-          Research: Learning analytics, video-based education<br>
-        </p>
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Stanley Nurnberger">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Stanley Nurnberger</h5>
+            <p class="card-text">
+              <em>Graduate Research Assistant</em><br>
+              Research: LLM-as-judge, creativity assessment
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Phillip Gregory">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Phillip Gregory</h5>
+            <p class="card-text">
+              <em>Graduate Research Assistant</em><br>
+              Research: Automated creativity assessment
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sam Grouchnikov">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Sam Grouchnikov</h5>
+            <p class="card-text">
+              <em>Graduate Research Assistant</em><br>
+              Research: Automated creativity assessment
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sachin Sharma">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Sachin Sharma</h5>
+            <p class="card-text">
+              <em>M.S. Computer Science</em><br>
+              Research: Adversarial robustness, video learning analytics
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Nong Ming">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Nong Ming</h5>
+            <p class="card-text">
+              <em>M.S. Computer Science</em><br>
+              Research: Learning analytics, video-based education
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 ---
 
 ## Joining the Lab
 
-We welcome applications from motivated students at all levels. Please see our [open positions](mailto:jnoh3@kennesaw.edu) or reach out directly with your CV and a brief research statement.
+We welcome applications from motivated students at all levels. Please reach out to [Dr. Jiho Noh](mailto:jnoh3@kennesaw.edu) with your CV and a brief research statement.
