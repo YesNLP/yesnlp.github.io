@@ -64,17 +64,6 @@ nav_order: 2
       </div>
     </div>
   </div>
-  <div class="col-sm-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h5 class="card-title">Zeynep Atay</h5>
-        <p class="card-text">
-          <em>Graduate Research Assistant</em><br>
-          Research: Mental health NLP, web mining<br>
-        </p>
-      </div>
-    </div>
-  </div>
 </div>
 
 ---
