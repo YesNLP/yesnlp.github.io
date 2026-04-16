@@ -81,13 +81,48 @@ nav_order: 2
             <h5 class="card-title">Phillip Gregory</h5>
             <p class="card-text">
               <em>M.S. Artificial Intelligence</em><br>
-              Research: Automated creativity assessment — regression-based scoring, pairwise (Elo) ranking, and uncertainty quantification for the Scientific Creative Thinking Test (SCTT)
+              Research: Automated creativity assessment — preference learning and uncertainty quantification
             </p>
           </div>
         </div>
       </div>
     </div>
   </div>
+
+</div>
+
+---
+
+## Interns
+
+<div class="row mt-4">
+
+  <div class="col-sm-6 mb-4">
+    <div class="card h-100 hoverable">
+      <div class="row g-0">
+        <div class="col-4 d-flex align-items-center justify-content-center p-2">
+          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Stanley Nurnberger">
+        </div>
+        <div class="col-8">
+          <div class="card-body">
+            <h5 class="card-title">Stanley Nurnberger</h5>
+            <p class="card-text">
+              <em>Intern</em><br>
+              Research: LLM-as-judge, creativity assessment
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Alumni
+
+<div class="row mt-4">
 
   <div class="col-sm-6 mb-4">
     <div class="card h-100 hoverable">
@@ -120,33 +155,6 @@ nav_order: 2
             <p class="card-text">
               <em>M.S. Computer Science</em><br>
               Research: Learning analytics, video-based education
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-
----
-
-## Interns
-
-<div class="row mt-4">
-
-  <div class="col-sm-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="row g-0">
-        <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Stanley Nurnberger">
-        </div>
-        <div class="col-8">
-          <div class="card-body">
-            <h5 class="card-title">Stanley Nurnberger</h5>
-            <p class="card-text">
-              <em>Intern</em><br>
-              Research: LLM-as-judge, creativity assessment
             </p>
           </div>
         </div>
