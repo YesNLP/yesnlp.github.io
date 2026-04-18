@@ -36,7 +36,9 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Mukhesh Raghava Katragadda">
+          <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
+            <img src="/assets/img/placeholder_student.png" alt="Mukhesh Raghava Katragadda" style="width:100%;height:100%;object-fit:cover;">
+          </div>
         </div>
         <div class="col-8">
           <div class="card-body">
@@ -55,7 +57,9 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/raymond_carl.jpg" class="img-fluid rounded" alt="Raymond Carl">
+          <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
+            <img src="/assets/img/raymond_carl.jpg" alt="Raymond Carl" style="width:100%;height:100%;object-fit:cover;">
+          </div>
         </div>
         <div class="col-8">
           <div class="card-body">
@@ -74,7 +78,9 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Phillip Gregory">
+          <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
+            <img src="/assets/img/placeholder_student.png" alt="Phillip Gregory" style="width:100%;height:100%;object-fit:cover;">
+          </div>
         </div>
         <div class="col-8">
           <div class="card-body">
@@ -130,7 +136,9 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sachin Sharma">
+          <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
+            <img src="/assets/img/placeholder_student.png" alt="Sachin Sharma" style="width:100%;height:100%;object-fit:cover;">
+          </div>
         </div>
         <div class="col-8">
           <div class="card-body">
@@ -149,7 +157,9 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Nong Ming">
+          <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
+            <img src="/assets/img/placeholder_student.png" alt="Nong Ming" style="width:100%;height:100%;object-fit:cover;">
+          </div>
         </div>
         <div class="col-8">
           <div class="card-body">
@@ -168,7 +178,9 @@ nav_order: 2
     <div class="card h-100 hoverable">
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-2">
-          <img src="/assets/img/placeholder_student.png" class="img-fluid rounded" alt="Sam Grouchnikov">
+          <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
+            <img src="/assets/img/placeholder_student.png" alt="Sam Grouchnikov" style="width:100%;height:100%;object-fit:cover;">
+          </div>
         </div>
         <div class="col-8">
           <div class="card-body">
