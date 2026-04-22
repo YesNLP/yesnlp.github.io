@@ -79,7 +79,7 @@ nav_order: 2
       <div class="row g-0">
         <div class="col-4 d-flex align-items-center justify-content-center p-1">
           <div style="width:100px;height:100px;border-radius:50%;overflow:hidden;margin:auto;">
-            <img src="/assets/img/placeholder_student.png" alt="Phillip Gregory" style="width:100%;height:100%;object-fit:cover;">
+            <img src="/assets/img/PhillipGregory.jpg" alt="Phillip Gregory" style="width:100%;height:100%;object-fit:cover;">
           </div>
         </div>
         <div class="col-8">
