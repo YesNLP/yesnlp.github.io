@@ -65,7 +65,7 @@ nav_order: 2
           <div class="card-body">
             <h5 class="card-title">Raymond Carl</h5>
             <p class="card-text">
-              <em>Graduate Research Assistant</em><br>
+              <em>M.S. Artificial Intelligence</em><br>
               Research: LLM reinforcement learning, classroom discourse analysis
             </p>
           </div>
