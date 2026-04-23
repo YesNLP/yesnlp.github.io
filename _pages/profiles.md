@@ -44,7 +44,7 @@ nav_order: 2
           <div class="card-body">
             <h5 class="card-title">Mukhesh Raghava Katragadda</h5>
             <p class="card-text">
-              <em>M.S. Computer Science</em><br>
+              <em>M.S. Artificial Intelligence</em><br>
               Research: Domain question mapping, classroom discourse analysis, educational NLP
             </p>
           </div>
