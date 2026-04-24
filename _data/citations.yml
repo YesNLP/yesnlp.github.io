@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-24'
 papers:
   Gxps8DsAAAAJ:1lhNe0rCu4AC:
     citations: 1
@@ -54,7 +54,7 @@ papers:
     title: Document retrieval for biomedical question answering with neural sentence matching
     year: '2018'
   Gxps8DsAAAAJ:nZcligLrVowC:
-    citations: 29
+    citations: 30
     title: Improved biomedical word embeddings in the transformer era
     year: '2021'
   Gxps8DsAAAAJ:u-coK7KVo8oC:
