@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-01'
 papers:
   Gxps8DsAAAAJ:1lhNe0rCu4AC:
     citations: 1
@@ -53,6 +53,10 @@ papers:
     citations: 8
     title: Document retrieval for biomedical question answering with neural sentence matching
     year: '2018'
+  Gxps8DsAAAAJ:nRpfm8aw39MC:
+    citations: 0
+    title: Enhancing Science Classroom Discourse Analysis through Joint Multi-Task Learning for Reasoning-Component Classification
+    year: '2026'
   Gxps8DsAAAAJ:nZcligLrVowC:
     citations: 30
     title: Improved biomedical word embeddings in the transformer era
