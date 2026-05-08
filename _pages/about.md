@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: bluetwigs.png
+  image: yeslab_profile.png
   image_circular: false
 
 selected_papers: false

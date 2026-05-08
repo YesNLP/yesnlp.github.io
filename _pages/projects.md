@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects of the Cognition and Learning Design Lab.
 nav: true
 nav_order: 3
-display_categories: [AI in Education, NLP & IR]
+display_categories: [AI in Education, LLM Reasoning & Alignment, Archived]
 horizontal: true
 ---
 

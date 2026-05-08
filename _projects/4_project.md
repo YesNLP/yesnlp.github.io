@@ -4,7 +4,7 @@ title: Biomedical NLP & Precision Medicine Retrieval
 description: Neural representations for biomedical information retrieval, entity normalization, and precision medicine.
 img: assets/img/5.jpg
 importance: 1
-category: NLP & IR
+category: Archived
 related_publications: true
 ---
 

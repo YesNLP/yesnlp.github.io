@@ -4,7 +4,7 @@ title: Adversarial Robustness of Deep Networks
 description: Investigating the transferability and robustness of adversarial attacks across CNN architectures.
 img: assets/img/1.jpg
 importance: 2
-category: NLP & IR
+category: Archived
 related_publications: true
 ---
 
