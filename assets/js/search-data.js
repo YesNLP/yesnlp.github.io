@@ -407,21 +407,16 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-aied-2026-poly-encoders-for-automated-creativity-assessment-congrats-to-the-team",
           title: 'Paper accepted at AIED 2026: “Poly-Encoders for Automated Creativity Assessment” — congrats to...',
           description: "",
-          section: "News",},{id: "projects-intelligent-tutoring-amp-creativity-assessment",
-          title: 'Intelligent Tutoring &amp;amp; Creativity Assessment',
-          description: "Automated feedback and creativity scoring for student responses using Poly-Encoders and learning science principles.",
+          section: "News",},{id: "projects-scientific-creativity-scoring-with-large-language-models",
+          title: 'Scientific Creativity Scoring with Large Language Models',
+          description: "Automated creativity assessment for student responses using fine-tuned models and LLM-as-Judge strategies on the Scientific Creative Thinking Test.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-domain-question-mapping-dqm",
-          title: 'Domain Question Mapping (DQM)',
-          description: "Automatically aligning assessment questions to educational learning materials using NLP.",
+            },},{id: "projects-question-driven-knowledge-mapping-and-learner-engagement-analysis-in-education",
+          title: 'Question-Driven Knowledge Mapping and Learner Engagement Analysis in Education',
+          description: "Using questions as a unifying lens to map knowledge structure from educational materials and decode cognitive engagement patterns in online learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-youleqd-video-learning-analytics",
-          title: 'YouLeQD — Video Learning Analytics',
-          description: "Decoding the cognitive complexity of learner questions in online educational videos.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-biomedical-nlp-amp-precision-medicine-retrieval",
           title: 'Biomedical NLP &amp;amp; Precision Medicine Retrieval',
           description: "Neural representations for biomedical information retrieval, entity normalization, and precision medicine.",
@@ -434,17 +429,12 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-dynamic-reward-agents-for-llm-reinforcement-learning",
           title: 'Dynamic Reward Agents for LLM Reinforcement Learning',
-          description: "Investigating whether dynamically regenerating an LLM-based reward rubric during RL training can sustain improvements in reasoning beyond static reward mechanisms.",
+          description: "Investigating whether periodically regenerating LLM-based reward criteria during GRPO training sustains reasoning improvements beyond static reward mechanisms.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-llm-as-judge-for-scientific-creativity-scoring",
-          title: 'LLM-as-Judge for Scientific Creativity Scoring',
-          description: "Examining prompt engineering strategies for using LLMs as automated judges to predict human-assigned creativity scores on the Scientific Creative Thinking Test.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-adas-automated-discourse-analysis-for-science-classrooms",
           title: 'ADAS — Automated Discourse Analysis for Science Classrooms',
-          description: "Using LLM-based data augmentation and fine-tuned transformers to classify reasoning patterns in science classroom dialogue and provide teachers with evidence-based feedback.",
+          description: "Joint multi-task learning with LLM-based data augmentation to classify utterance types and reasoning components in science classroom dialogue, with temporal analysis of cognitive complexity across lessons.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "teachings-data-science-fundamentals",
