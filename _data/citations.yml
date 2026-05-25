@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-25'
 papers:
   Gxps8DsAAAAJ:1lhNe0rCu4AC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: Investigating the transferability and robustness of adversarial attacks between standard and dilated cnn architectures
     year: '2025'
   Gxps8DsAAAAJ:Ehil0879vHcC:
-    citations: 13
+    citations: 14
     title: 'Joint learning for biomedical NER and entity normalization: encoding schemes, counterfactual examples, and zero-shot evaluation'
     year: '2021'
   Gxps8DsAAAAJ:F9fV5C73w3QC:
@@ -46,7 +46,7 @@ papers:
     title: A tool for sharing interlinearized and lexical data in diverse formats
     year: '2017'
   Gxps8DsAAAAJ:_OXeSy2IsFwC:
-    citations: 7
+    citations: 8
     title: A survey on conversational search and applications in biomedicine
     year: '2023'
   Gxps8DsAAAAJ:dTyEYWd-f8wC:
@@ -70,6 +70,6 @@ papers:
     title: 'Team UKNLP at TREC 2017 precision medicine track: a knowledge-based IR system with tuned query-time boosting'
     year: '2017'
   Gxps8DsAAAAJ:yMeIxYmEMEAC:
-    citations: 6
+    citations: 7
     title: Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization
     year: '2020'
