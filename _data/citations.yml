@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-12'
 papers:
   Gxps8DsAAAAJ:1lhNe0rCu4AC:
-    citations: 1
+    citations: 2
     title: 'YouLeQD: Decoding the Cognitive Complexity of Questions and Engagement in Online Educational Videos from Learners'' Perspectives'
     year: '2025'
+  Gxps8DsAAAAJ:7BrZ7Jt4UNcC:
+    citations: 0
+    title: 'Resolution Matters: Evaluating Adversarial Robustness of CNN and ViT Models Under Varying Image Resolutions'
+    year: '2026'
   Gxps8DsAAAAJ:7Hz3ACDFbsoC:
     citations: 0
     title: Automated Domain Question Mapping (DQM) with Educational Learning Materials
@@ -18,7 +22,7 @@ papers:
     title: 'Kratylos: A tool for sharing interlinearized and lexical data in diverse formats'
     year: '2018'
   Gxps8DsAAAAJ:BzfGm06jWhQC:
-    citations: 4
+    citations: 5
     title: Investigating the transferability and robustness of adversarial attacks between standard and dilated cnn architectures
     year: '2025'
   Gxps8DsAAAAJ:Ehil0879vHcC:
